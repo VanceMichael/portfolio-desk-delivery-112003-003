@@ -20,6 +20,10 @@
     "W32N": {
       "from": 2,
       "until": 4
+    },
+    "W17OldAppendix": {
+      "from": 1,
+      "until": 3
     }
   }
 }

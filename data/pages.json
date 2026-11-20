@@ -23,11 +23,11 @@
     "rev": 1,
     "allowed": [
       "W17N",
-      "W17Appendix"
+      "W17OldAppendix"
     ],
     "served": [
       "W17N",
-      "W17Appendix"
+      "W17OldAppendix"
     ],
     "student": "J17"
   },

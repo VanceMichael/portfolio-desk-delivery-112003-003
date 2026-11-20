@@ -23,7 +23,7 @@
     "delay": {},
     "required": [
       "W17N",
-      "W17Appendix"
+      "W17OldAppendix"
     ]
   },
   {
