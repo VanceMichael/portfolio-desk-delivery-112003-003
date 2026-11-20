@@ -3,47 +3,41 @@
     "id": "TX1",
     "request": "D100",
     "permit": "P11",
-    "files": [
-      "W17A"
-    ],
-    "event": "sent"
-  },
-  {
-    "id": "TX1",
-    "event": "received",
-    "receipt": "R71"
+    "members": [
+      {
+        "name": "W17A.txt",
+        "state": "席位已收",
+        "seat_at": 1
+      }
+    ]
   },
   {
     "id": "TX2",
     "request": "D101",
     "permit": "P12",
-    "files": [
-      "W17N"
-    ],
-    "event": "sent"
+    "members": [
+      {
+        "name": "W17N.txt",
+        "state": "中转留存",
+        "seat_at": 2
+      },
+      {
+        "name": "W17Appendix.txt",
+        "state": "中转留存",
+        "seat_at": 4
+      }
+    ]
   },
   {
     "id": "TX3",
     "request": "D103",
     "permit": "P13",
-    "files": [
-      "W17A"
-    ],
-    "event": "sent"
-  },
-  {
-    "id": "TX3",
-    "event": "received",
-    "receipt": "R72"
-  },
-  {
-    "id": "TX2",
-    "event": "received",
-    "receipt": "R73"
-  },
-  {
-    "id": "TX2",
-    "event": "withdrawn",
-    "receipt": "R74"
+    "members": [
+      {
+        "name": "W17A.txt",
+        "state": "席位已收",
+        "seat_at": 1
+      }
+    ]
   }
 ]

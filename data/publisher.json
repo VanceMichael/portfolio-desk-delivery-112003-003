@@ -1,0 +1,25 @@
+{
+  "budget": 2,
+  "files": {
+    "W17A": {
+      "from": 1,
+      "until": 5
+    },
+    "W17Preview": {
+      "from": 3,
+      "until": 5
+    },
+    "W17N": {
+      "from": 1,
+      "until": 6
+    },
+    "W17Appendix": {
+      "from": 3,
+      "until": 6
+    },
+    "W32N": {
+      "from": 2,
+      "until": 4
+    }
+  }
+}

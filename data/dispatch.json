@@ -4,14 +4,27 @@
     "student": "J17",
     "slot": "PM1",
     "desk": "E1",
-    "use": "anonymous"
+    "use": "anonymous",
+    "from": 1,
+    "deadline": 4,
+    "delay": {},
+    "required": [
+      "W17A"
+    ]
   },
   {
     "request": "D101",
     "student": "J17",
     "slot": "PM1",
     "desk": "E1",
-    "use": "named"
+    "use": "named",
+    "from": 1,
+    "deadline": 4,
+    "delay": {},
+    "required": [
+      "W17N",
+      "W17Appendix"
+    ]
   },
   {
     "request": "D102",
@@ -19,13 +32,42 @@
     "slot": "PM2",
     "desk": "E2",
     "use": "named",
-    "replaces": "D101"
+    "replaces": "D101",
+    "from": 2,
+    "deadline": 6,
+    "delay": {
+      "W17Appendix.txt": 2
+    },
+    "required": [
+      "W17N",
+      "W17Appendix"
+    ],
+    "lost_reply": true
   },
   {
     "request": "D103",
     "student": "J17",
     "slot": "PM1",
     "desk": "F4",
-    "use": "anonymous"
+    "use": "anonymous",
+    "from": 1,
+    "deadline": 4,
+    "delay": {},
+    "required": [
+      "W17A"
+    ]
+  },
+  {
+    "request": "D200",
+    "student": "J32",
+    "desk": "E2",
+    "slot": "PM1",
+    "use": "named",
+    "from": 2,
+    "deadline": 4,
+    "required": [
+      "W32N"
+    ],
+    "delay": {}
   }
 ]

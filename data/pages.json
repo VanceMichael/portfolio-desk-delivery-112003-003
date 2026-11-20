@@ -10,8 +10,10 @@
       "W17Preview"
     ],
     "served": [
-      "W17A"
-    ]
+      "W17A",
+      "W17Preview"
+    ],
+    "student": "J17"
   },
   {
     "id": "P12",
@@ -20,11 +22,14 @@
     "use": "named",
     "rev": 1,
     "allowed": [
-      "W17N"
+      "W17N",
+      "W17Appendix"
     ],
     "served": [
-      "W17N"
-    ]
+      "W17N",
+      "W17Appendix"
+    ],
+    "student": "J17"
   },
   {
     "id": "P13",
@@ -37,7 +42,8 @@
     ],
     "served": [
       "W17A"
-    ]
+    ],
+    "student": "J17"
   },
   {
     "id": "P14",
@@ -47,7 +53,8 @@
     "rev": 2,
     "allowed": [],
     "served": [],
-    "previous": "P12"
+    "previous": "P12",
+    "student": "J17"
   },
   {
     "id": "P15",
@@ -56,11 +63,28 @@
     "use": "named",
     "rev": 2,
     "allowed": [
-      "W17N"
+      "W17N",
+      "W17Appendix"
     ],
     "served": [
-      "W17N"
+      "W17N",
+      "W17Appendix"
     ],
-    "previous": "P12"
+    "previous": "P12",
+    "student": "J17"
+  },
+  {
+    "id": "P20",
+    "student": "J32",
+    "desk": "E2",
+    "slot": "PM1",
+    "use": "named",
+    "rev": 1,
+    "allowed": [
+      "W32N"
+    ],
+    "served": [
+      "W32N"
+    ]
   }
 ]
