@@ -1,0 +1,724 @@
+{
+  "final_round": 5,
+  "permits": [
+    {
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        },
+        {
+          "work": "W17Preview",
+          "until": 5
+        }
+      ],
+      "release": 1
+    },
+    {
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        },
+        {
+          "work": "W17Preview",
+          "until": 5
+        }
+      ],
+      "release": 2
+    },
+    {
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        },
+        {
+          "work": "W17Preview",
+          "until": 5
+        }
+      ],
+      "release": 3
+    },
+    {
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        },
+        {
+          "work": "W17Preview",
+          "until": 5
+        }
+      ],
+      "release": 4
+    },
+    {
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        },
+        {
+          "work": "W17Preview",
+          "until": 5
+        }
+      ],
+      "release": 5
+    },
+    {
+      "permit": "P12",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17N",
+          "until": 6
+        },
+        {
+          "work": "W17OldAppendix",
+          "until": 3
+        }
+      ],
+      "release": 1
+    },
+    {
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17N",
+          "until": 6
+        },
+        {
+          "work": "W17Appendix",
+          "until": 6
+        }
+      ],
+      "release": 2
+    },
+    {
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17N",
+          "until": 6
+        },
+        {
+          "work": "W17Appendix",
+          "until": 6
+        }
+      ],
+      "release": 3
+    },
+    {
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17N",
+          "until": 6
+        },
+        {
+          "work": "W17Appendix",
+          "until": 6
+        }
+      ],
+      "release": 4
+    },
+    {
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17N",
+          "until": 6
+        },
+        {
+          "work": "W17Appendix",
+          "until": 6
+        }
+      ],
+      "release": 5
+    },
+    {
+      "permit": "P13",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        }
+      ],
+      "release": 1
+    },
+    {
+      "permit": "P13",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        }
+      ],
+      "release": 2
+    },
+    {
+      "permit": "P13",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        }
+      ],
+      "release": 3
+    },
+    {
+      "permit": "P13",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        }
+      ],
+      "release": 4
+    },
+    {
+      "permit": "P13",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "student": "J17",
+      "allowed": [
+        {
+          "work": "W17A",
+          "until": 5
+        }
+      ],
+      "release": 5
+    },
+    {
+      "permit": "P20",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "student": "J32",
+      "allowed": [
+        {
+          "work": "W32N",
+          "until": 4
+        }
+      ],
+      "release": 2
+    },
+    {
+      "permit": "P20",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "student": "J32",
+      "allowed": [
+        {
+          "work": "W32N",
+          "until": 4
+        }
+      ],
+      "release": 3
+    },
+    {
+      "permit": "P20",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "student": "J32",
+      "allowed": [
+        {
+          "work": "W32N",
+          "until": 4
+        }
+      ],
+      "release": 4
+    },
+    {
+      "permit": "P20",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "student": "J32",
+      "allowed": [
+        {
+          "work": "W32N",
+          "until": 4
+        }
+      ],
+      "release": 5
+    }
+  ],
+  "schedule": [
+    {
+      "request": "D100",
+      "student": "J17",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17A"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D101",
+      "student": "J17",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "named",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17N",
+        "W17OldAppendix"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D102",
+      "student": "J17",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "deadline": 6,
+      "replaces": "D101",
+      "required": [
+        "W17N",
+        "W17Appendix"
+      ],
+      "from": 2
+    },
+    {
+      "request": "D103",
+      "student": "J17",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17A"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D200",
+      "student": "J32",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W32N"
+      ],
+      "from": 2
+    }
+  ],
+  "deliveries": [
+    {
+      "delivery": "TX-D102",
+      "request": "D102",
+      "permit": "P15",
+      "members": [
+        {
+          "name": "W17Appendix.txt",
+          "state": "席位已收",
+          "sha256": "09c538df0f35abdea5c3f52a6a183133e28a0d885fc06aa58122a3f0d78da133",
+          "observed_round": 5
+        },
+        {
+          "name": "W17N.txt",
+          "state": "席位已收",
+          "sha256": "4364e5e4062eccaf15a1816d6f5098e69a185383a53f135f279f922fec9607f4",
+          "observed_round": 5
+        }
+      ]
+    },
+    {
+      "delivery": "TX-D200",
+      "request": "D200",
+      "permit": "P20",
+      "members": [
+        {
+          "name": "W32N.txt",
+          "state": "席位已收",
+          "sha256": "efc7187064fc7a0d62417def0e4d67469d430313ae1e0aca9a9ce5500aaad9b0",
+          "observed_round": 5
+        }
+      ]
+    },
+    {
+      "delivery": "TX1",
+      "request": "D100",
+      "permit": "P11",
+      "members": [
+        {
+          "name": "W17A.txt",
+          "state": "席位已收",
+          "sha256": "",
+          "observed_round": 5
+        },
+        {
+          "name": "W17Preview.txt",
+          "state": "席位已收",
+          "sha256": "f8815162a9a9217b443a77659c90c051d8083fcb7cb4fbef56cbdea4342d194d",
+          "observed_round": 5
+        }
+      ]
+    },
+    {
+      "delivery": "TX2",
+      "request": "D101",
+      "permit": "P12",
+      "members": [
+        {
+          "name": "W17N.txt",
+          "state": "席位已清除",
+          "sha256": "",
+          "observed_round": 5
+        },
+        {
+          "name": "W17OldAppendix.txt",
+          "state": "中转已撤",
+          "sha256": "",
+          "observed_round": 5
+        }
+      ]
+    },
+    {
+      "delivery": "TX3",
+      "request": "D103",
+      "permit": "P13",
+      "members": [
+        {
+          "name": "W17A.txt",
+          "state": "席位已收",
+          "sha256": "",
+          "observed_round": 5
+        }
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "ticket": "H0201",
+      "delivery_id": "TX2",
+      "action": "purge",
+      "summary": "办理号 H0201 席位等待清除",
+      "submitted_round": 2,
+      "receipt_round": 2
+    },
+    {
+      "ticket": "H0202",
+      "delivery_id": "TX2",
+      "action": "cancel",
+      "summary": "办理号 H0202 中转已撤",
+      "submitted_round": 2,
+      "receipt_round": 2
+    },
+    {
+      "ticket": "H0203",
+      "delivery_id": "TX-D200",
+      "action": "dispatch",
+      "summary": "办理号 H0203 已进入中转",
+      "submitted_round": 2,
+      "receipt_round": 2
+    },
+    {
+      "ticket": "H0304",
+      "delivery_id": "TX1",
+      "action": "dispatch",
+      "summary": "办理号 H0304 已进入中转",
+      "submitted_round": 3,
+      "receipt_round": 3
+    },
+    {
+      "ticket": "H0305",
+      "delivery_id": "TX-D102",
+      "action": "dispatch",
+      "summary": "办理号 H0305 已进入中转",
+      "submitted_round": 3,
+      "receipt_round": 4
+    }
+  ],
+  "handoffs": {
+    "D102": {
+      "replaces": "D101",
+      "new_request": "D102",
+      "tickets": [
+        "H0201",
+        "H0202"
+      ],
+      "gate_open": true,
+      "old_order": {
+        "request": "D101",
+        "desk": "E1",
+        "slot": "PM1",
+        "student": "J17"
+      },
+      "gate_evidence": [
+        {
+          "delivery": "TX2",
+          "members": [
+            {
+              "name": "W17N.txt",
+              "state": "席位已清除",
+              "observed_round": 5
+            },
+            {
+              "name": "W17OldAppendix.txt",
+              "state": "中转已撤",
+              "observed_round": 5
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "credentials": [
+    {
+      "work": "W32N",
+      "permit": "P20",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "rev": 1,
+      "path": "/workspace/runs/first/downloads/P20/W32N.txt",
+      "sha256": "efc7187064fc7a0d62417def0e4d67469d430313ae1e0aca9a9ce5500aaad9b0",
+      "round": 2
+    },
+    {
+      "work": "W17N",
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "path": "/workspace/runs/first/downloads/P15/W17N.txt",
+      "sha256": "4364e5e4062eccaf15a1816d6f5098e69a185383a53f135f279f922fec9607f4",
+      "round": 2
+    },
+    {
+      "work": "W17Appendix",
+      "permit": "P15",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "rev": 2,
+      "path": "/workspace/runs/first/downloads/P15/W17Appendix.txt",
+      "sha256": "09c538df0f35abdea5c3f52a6a183133e28a0d885fc06aa58122a3f0d78da133",
+      "round": 3
+    },
+    {
+      "work": "W17Preview",
+      "permit": "P11",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "rev": 1,
+      "path": "/workspace/runs/first/downloads/P11/W17Preview.txt",
+      "sha256": "f8815162a9a9217b443a77659c90c051d8083fcb7cb4fbef56cbdea4342d194d",
+      "round": 3
+    }
+  ],
+  "desk_view": {
+    "E1": {
+      "可看": [
+        {
+          "delivery": "TX1",
+          "member": "W17A.txt",
+          "request": "D100",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX1",
+          "member": "W17Preview.txt",
+          "request": "D100",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": [
+        {
+          "delivery": "TX2",
+          "member": "W17N.txt",
+          "request": "D101",
+          "state": "席位已清除"
+        }
+      ]
+    },
+    "F4": {
+      "可看": [
+        {
+          "delivery": "TX3",
+          "member": "W17A.txt",
+          "request": "D103",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": []
+    },
+    "E2": {
+      "可看": [
+        {
+          "delivery": "TX-D200",
+          "member": "W32N.txt",
+          "request": "D200",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX-D102",
+          "member": "W17N.txt",
+          "request": "D102",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX-D102",
+          "member": "W17Appendix.txt",
+          "request": "D102",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": []
+    }
+  },
+  "exceptions": [],
+  "observations": [
+    {
+      "round": 1,
+      "kind": "暂缺",
+      "request": "D100",
+      "permit": "P11",
+      "work": "W17Preview",
+      "detail": "授权允许但领取清单本轮暂缺（发布时刻/修订差异），不是拒绝授权"
+    },
+    {
+      "round": 2,
+      "kind": "暂缺",
+      "request": "D102",
+      "permit": "P15",
+      "work": "W17Appendix",
+      "detail": "授权允许但领取清单本轮暂缺（发布时刻/修订差异），不是拒绝授权"
+    },
+    {
+      "round": 2,
+      "kind": "实名齐件等待",
+      "request": "D102",
+      "detail": "尚缺 ['W17Appendix.txt']，本轮不发送"
+    },
+    {
+      "round": 4,
+      "kind": "已过领取时限",
+      "request": "D200",
+      "permit": "P20",
+      "work": "W32N",
+      "detail": "公示可领至第 4 轮（不含），第 4 轮起停止提供，属临时不在清单而非学生拒绝授权"
+    },
+    {
+      "round": 5,
+      "kind": "已过领取时限",
+      "request": "D100",
+      "permit": "P11",
+      "work": "W17A",
+      "detail": "公示可领至第 5 轮（不含），第 5 轮起停止提供，属临时不在清单而非学生拒绝授权"
+    },
+    {
+      "round": 5,
+      "kind": "已过领取时限",
+      "request": "D103",
+      "permit": "P13",
+      "work": "W17A",
+      "detail": "公示可领至第 5 轮（不含），第 5 轮起停止提供，属临时不在清单而非学生拒绝授权"
+    }
+  ]
+}

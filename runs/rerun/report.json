@@ -1,0 +1,232 @@
+{
+  "final_round": 9,
+  "permits": [],
+  "schedule": [
+    {
+      "request": "D100",
+      "student": "J17",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "anonymous",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17A"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D101",
+      "student": "J17",
+      "desk": "E1",
+      "slot": "PM1",
+      "use": "named",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17N",
+        "W17OldAppendix"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D102",
+      "student": "J17",
+      "desk": "E2",
+      "slot": "PM2",
+      "use": "named",
+      "deadline": 6,
+      "replaces": "D101",
+      "required": [
+        "W17N",
+        "W17Appendix"
+      ],
+      "from": 2
+    },
+    {
+      "request": "D103",
+      "student": "J17",
+      "desk": "F4",
+      "slot": "PM1",
+      "use": "anonymous",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W17A"
+      ],
+      "from": 1
+    },
+    {
+      "request": "D200",
+      "student": "J32",
+      "desk": "E2",
+      "slot": "PM1",
+      "use": "named",
+      "deadline": 4,
+      "replaces": null,
+      "required": [
+        "W32N"
+      ],
+      "from": 2
+    }
+  ],
+  "deliveries": [
+    {
+      "delivery": "TX-D102",
+      "request": "D102",
+      "permit": "P15",
+      "members": [
+        {
+          "name": "W17Appendix.txt",
+          "state": "席位已收",
+          "sha256": "09c538df0f35abdea5c3f52a6a183133e28a0d885fc06aa58122a3f0d78da133",
+          "observed_round": 9
+        },
+        {
+          "name": "W17N.txt",
+          "state": "席位已收",
+          "sha256": "4364e5e4062eccaf15a1816d6f5098e69a185383a53f135f279f922fec9607f4",
+          "observed_round": 9
+        }
+      ]
+    },
+    {
+      "delivery": "TX-D200",
+      "request": "D200",
+      "permit": "P20",
+      "members": [
+        {
+          "name": "W32N.txt",
+          "state": "席位已收",
+          "sha256": "efc7187064fc7a0d62417def0e4d67469d430313ae1e0aca9a9ce5500aaad9b0",
+          "observed_round": 9
+        }
+      ]
+    },
+    {
+      "delivery": "TX1",
+      "request": "D100",
+      "permit": "P11",
+      "members": [
+        {
+          "name": "W17A.txt",
+          "state": "席位已收",
+          "sha256": "",
+          "observed_round": 9
+        },
+        {
+          "name": "W17Preview.txt",
+          "state": "席位已收",
+          "sha256": "f8815162a9a9217b443a77659c90c051d8083fcb7cb4fbef56cbdea4342d194d",
+          "observed_round": 9
+        }
+      ]
+    },
+    {
+      "delivery": "TX2",
+      "request": "D101",
+      "permit": "P12",
+      "members": [
+        {
+          "name": "W17N.txt",
+          "state": "席位已清除",
+          "sha256": "",
+          "observed_round": 9
+        },
+        {
+          "name": "W17OldAppendix.txt",
+          "state": "中转已撤",
+          "sha256": "",
+          "observed_round": 9
+        }
+      ]
+    },
+    {
+      "delivery": "TX3",
+      "request": "D103",
+      "permit": "P13",
+      "members": [
+        {
+          "name": "W17A.txt",
+          "state": "席位已收",
+          "sha256": "",
+          "observed_round": 9
+        }
+      ]
+    }
+  ],
+  "tickets": [],
+  "handoffs": {},
+  "credentials": [],
+  "desk_view": {
+    "E1": {
+      "可看": [
+        {
+          "delivery": "TX1",
+          "member": "W17A.txt",
+          "request": "D100",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX1",
+          "member": "W17Preview.txt",
+          "request": "D100",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": [
+        {
+          "delivery": "TX2",
+          "member": "W17N.txt",
+          "request": "D101",
+          "state": "席位已清除"
+        }
+      ]
+    },
+    "F4": {
+      "可看": [
+        {
+          "delivery": "TX3",
+          "member": "W17A.txt",
+          "request": "D103",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": []
+    },
+    "E2": {
+      "可看": [
+        {
+          "delivery": "TX-D102",
+          "member": "W17N.txt",
+          "request": "D102",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX-D102",
+          "member": "W17Appendix.txt",
+          "request": "D102",
+          "state": "席位已收"
+        },
+        {
+          "delivery": "TX-D200",
+          "member": "W32N.txt",
+          "request": "D200",
+          "state": "席位已收"
+        }
+      ],
+      "待补": [],
+      "待转入": [],
+      "需人工联络": [],
+      "已清除": []
+    }
+  },
+  "exceptions": [],
+  "observations": []
+}
