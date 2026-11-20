@@ -1,0 +1,49 @@
+[
+  {
+    "id": "TX1",
+    "request": "D100",
+    "permit": "P11",
+    "files": [
+      "W17A"
+    ],
+    "event": "sent"
+  },
+  {
+    "id": "TX1",
+    "event": "received",
+    "receipt": "R71"
+  },
+  {
+    "id": "TX2",
+    "request": "D101",
+    "permit": "P12",
+    "files": [
+      "W17N"
+    ],
+    "event": "sent"
+  },
+  {
+    "id": "TX3",
+    "request": "D103",
+    "permit": "P13",
+    "files": [
+      "W17A"
+    ],
+    "event": "sent"
+  },
+  {
+    "id": "TX3",
+    "event": "received",
+    "receipt": "R72"
+  },
+  {
+    "id": "TX2",
+    "event": "received",
+    "receipt": "R73"
+  },
+  {
+    "id": "TX2",
+    "event": "withdrawn",
+    "receipt": "R74"
+  }
+]

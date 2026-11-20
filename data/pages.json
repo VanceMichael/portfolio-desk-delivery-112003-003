@@ -1,0 +1,66 @@
+[
+  {
+    "id": "P11",
+    "desk": "E1",
+    "slot": "PM1",
+    "use": "anonymous",
+    "rev": 1,
+    "allowed": [
+      "W17A",
+      "W17Preview"
+    ],
+    "served": [
+      "W17A"
+    ]
+  },
+  {
+    "id": "P12",
+    "desk": "E1",
+    "slot": "PM1",
+    "use": "named",
+    "rev": 1,
+    "allowed": [
+      "W17N"
+    ],
+    "served": [
+      "W17N"
+    ]
+  },
+  {
+    "id": "P13",
+    "desk": "F4",
+    "slot": "PM1",
+    "use": "anonymous",
+    "rev": 1,
+    "allowed": [
+      "W17A"
+    ],
+    "served": [
+      "W17A"
+    ]
+  },
+  {
+    "id": "P14",
+    "desk": "E1",
+    "slot": "PM1",
+    "use": "named",
+    "rev": 2,
+    "allowed": [],
+    "served": [],
+    "previous": "P12"
+  },
+  {
+    "id": "P15",
+    "desk": "E2",
+    "slot": "PM2",
+    "use": "named",
+    "rev": 2,
+    "allowed": [
+      "W17N"
+    ],
+    "served": [
+      "W17N"
+    ],
+    "previous": "P12"
+  }
+]

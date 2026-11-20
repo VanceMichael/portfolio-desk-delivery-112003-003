@@ -1,0 +1,31 @@
+[
+  {
+    "request": "D100",
+    "student": "J17",
+    "slot": "PM1",
+    "desk": "E1",
+    "use": "anonymous"
+  },
+  {
+    "request": "D101",
+    "student": "J17",
+    "slot": "PM1",
+    "desk": "E1",
+    "use": "named"
+  },
+  {
+    "request": "D102",
+    "student": "J17",
+    "slot": "PM2",
+    "desk": "E2",
+    "use": "named",
+    "replaces": "D101"
+  },
+  {
+    "request": "D103",
+    "student": "J17",
+    "slot": "PM1",
+    "desk": "F4",
+    "use": "anonymous"
+  }
+]
